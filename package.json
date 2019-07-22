@@ -1,0 +1,14 @@
+{
+  "lockfileVersion": 1,
+  "name": "basicchain",
+  "version": "0.0.1",
+  "description": "Application Description",
+  "main": "myfirts.js",
+  "scripts": {
+    "start": "myfirts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/polzka90/BasicChainTS.git"
+  }
+}
