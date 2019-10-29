@@ -10,5 +10,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/polzka90/BasicChainTS.git"
+  },
+  "dependencies": {
+    "guid-typescript": "^1.0.9"
   }
 }

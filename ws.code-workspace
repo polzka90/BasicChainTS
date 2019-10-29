@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "BasicChain",
+			"path": "."
+		},
+		{
+			"name": ".git",
+			"path": ".git"
+		}
+	],
+	"settings": {}
+}
