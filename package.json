@@ -12,6 +12,7 @@
     "url": "https://github.com/polzka90/BasicChainTS.git"
   },
   "dependencies": {
-    "guid-typescript": "^1.0.9"
+    "guid-typescript": "^1.0.9",
+    "js-sha3": "^0.8.0"
   }
 }
