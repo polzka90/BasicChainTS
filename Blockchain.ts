@@ -3,7 +3,7 @@ import { Transaction } from "./Class/Transaction";
 import { Guid } from "guid-typescript";
 import { sha3_512 } from 'js-sha3';
 
-class Blockchain
+export class Blockchain
 {
     
     public TheChain: Array<Block>;
@@ -12,6 +12,7 @@ class Blockchain
     {
         this.TheChain = new Array<Block>();
         this.NewsTransactions = new Array<Transaction>();
+        this.CreateNewBlock(100,"0","0");
     }
 
 
